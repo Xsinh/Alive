@@ -48,10 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Blood.cs" />
      <Compile Include="Assets\Scripts\Settings.cs" />
-     <Compile Include="Assets\Scripts\Social\Facebook_Click.cs" />
-     <Compile Include="Assets\Scripts\Social\Instagram_Click.cs" />
-     <Compile Include="Assets\Scripts\Social\Twitter_Click.cs" />
-     <Compile Include="Assets\Scripts\Social\VK_Click.cs" />
+     <Compile Include="Assets\Scripts\Social\Social.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

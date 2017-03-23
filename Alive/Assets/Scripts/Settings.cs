@@ -16,6 +16,7 @@ public class Settings : MonoBehaviour
 	{
 		Gear.GetComponent<Animator> ().Play ("gear_1");
 	}
+		
 
 	void OnMouseUp()
 	{
